@@ -1,0 +1,8 @@
+# Tiny-QA-Benchmark — evaluator
+pandas>=2.0
+numpy>=1.24
+python-Levenshtein>=0.21
+tqdm>=4.65
+
+# Model access (any LiteLLM provider; required for live evals and generation)
+litellm>=1.0

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+eval_*.json
+tinyqa_generated_*.json
